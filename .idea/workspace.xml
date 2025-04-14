@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c609e561-7659-4cdc-96ab-713fab29f751" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/基础面试题.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基础面试题.md" beforeDir="false" afterPath="$PROJECT_DIR$/基础面试题.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1744599777142</updated>
-      <workItem from="1744599779300" duration="6440000" />
+      <workItem from="1744599779300" duration="11098000" />
     </task>
     <servers />
   </component>
