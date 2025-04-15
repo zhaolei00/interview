@@ -1,0 +1,37 @@
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+.DS_Store
+
+*.class
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/build/
+
+/admin/src/main/resources/application-local.*
+/game-server/src/main/resources/application-local.*
+/match/src/main/resources/application-local.*
+/player/src/main/resources/application-local.*
+/room-rm/src/main/resources/application-local.*
+/shop/src/main/resources/application-local.*
+/scoreboard/src/main/resources/application-local.*
+/pachinko/src/main/resources/application-local.*
+/.run/
