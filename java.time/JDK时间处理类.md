@@ -12,3 +12,5 @@
     根据时间戳和时区偏移量，计算出年月日(此算法很复杂)。
 # 5. LocalDateTime原理
     有LocalDate和LocalTime两个字段。
+# 6. ZoneDateTime原理
+    保存LocalDateTime、偏移量、时区三个不可变字段。
