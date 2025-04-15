@@ -5,3 +5,5 @@
     如果值为空，都是返回同一个空对象。内存优化。这个很重要，所有操作都用这个空对象来减少内存使用。
 # 3. 都有哪些操作?
     of()、ofNullable()、filter()、map()、flatMap()
+# 4. 默认实现的数据类型
+    OptionalDouble、OptionalInt、OptionalLong
