@@ -5,4 +5,4 @@
     在agent入口类AgentBootstrap中，premain()和agentmain()方法都实现了。也就是说可以以两种形式进行agent。
     一种是启动时通过javaagent参数调用premain方法来agent。另一种是通过工具类在运行时加载agent，调用agentmain方法来agent。
 
-    注意: attach需要用到tools.jar，这个是默认没有导入的。
+    注意: attach需要用到tools.jar，这个是默认没有导入的。需要到JDK的lib下主动导入下。
